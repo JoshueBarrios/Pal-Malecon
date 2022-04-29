@@ -1,0 +1,226 @@
+[
+  {
+    "precio": 1000,
+    "id": 1,
+    "title": "Pulpo al ajillo",
+    "descripcion": "Mezcla triturada de garbanzos hidratados en agua con cebolla, ajo y diferentes hierbas y especias.",
+    "claves": "Pulpo, papas, plato entrada",
+    "thumbnailUrl": "../img/pulpo al ajillo.jpg"
+  },
+  {
+    "precio": 1100,
+    "id": 2,
+    "title": "Merluza y camarones",
+    "descripcion": "Fideos de arroz salteados con verduras.",
+    "claves": "Merluza, Camarones, Arroz, plato principal",
+    "thumbnailUrl": "../img/merluza y camarones.jpg"
+  },
+  {
+    "precio": 800,
+    "id": 3,
+    "title": "Sushi",
+    "descripcion": "Plato tradicional de la cocina manchega que consiste en una fritada de diversas verduras.",
+    "claves": "Sushi, plato principal",
+    "thumbnailUrl": "../img/sushi.jpg"
+  },
+  {
+    "precio": 700,
+    "id": 4,
+    "title": "Ceviche",
+    "descripcion": "Ceviche de la casa.",
+    "claves": "Ceviche, Cebolla, Leche de tigre, Tostones de platanos, plato principal",
+    "thumbnailUrl": "../img/ceviche.jpg"
+  },
+  {
+    "precio": 300,
+    "id": 5,
+    "title": "Empanadas",
+    "descripcion": "Empanadas, cazón, pulpo, caraota, platano, queso, carne mechada, carne molida.",
+    "claves": "Harina de maíz, plato entrada",
+    "thumbnailUrl": "../img/empanadas venecas.jpg"
+  },
+  {
+    "precio": 600,
+    "id": 6,
+    "title": "Catalana",
+    "descripcion": "Catalana frita con tostones de plátano, ensalada, aguacate y arroz.",
+    "claves": "Pescado, ensalada, tostones, aguacate, plato principal",
+    "thumbnailUrl": "../img/catalana.jpg"
+  },
+  {
+    "precio": 480,
+    "id": 7,
+    "title": "Carite en salsa de ron blanco",
+    "descripcion": "Carite bañado en salsa de ron blanco y un jugoso toque de limón.",
+    "claves": "Pescado, salsa de ron blanco, plato principal",
+    "thumbnailUrl": "../img/carite.jpg"
+  },
+  {
+    "precio": 550,
+    "id": 8,
+    "title": "Pargo con tostones",
+    "descripcion": "Pargo frito con tostones.",
+    "claves": "Pescado, tostones, plato entrada",
+    "thumbnailUrl": "../img/pargo.jpg"
+  },
+  {
+    "precio": 450,
+    "id": 9,
+    "title": "Cazuela de mariscos",
+    "descripcion": "Cazuela de mariscos con salsa de la casa, perejil y cebolla.",
+    "claves": "Cazuela, mariscos, perejil, cebolla, plato principal",
+    "thumbnailUrl": "../img/cazuela.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 10,
+    "title": "Brochetas de mariscos",
+    "descripcion": "Brochetas con verduras salteadas y mariscos de la zona.",
+    "claves": "Camarones, calamares, verduras, wok, cebolla, morron, salsa de soja, plato entrada",
+    "thumbnailUrl": "../img/brochetas.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 11,
+    "title": "Sopa de pescado",
+    "descripcion": "Hervido de pescado con yuca, ajo, cebolla, ocumo chino, auyama y limón.",
+    "claves": "Pescado, cebolla, auyama, ocumo, yuca, ajo, perejil, cilantro, hervidos",
+    "thumbnailUrl": "../img/sopa.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 12,
+    "title": "Quesillo",
+    "descripcion": "Flan venezolano elaborado con leche condensada, huevo, vainilla, azúcar y ron.",
+    "claves": "Postres",
+    "thumbnailUrl": "../img/quesillo.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 13,
+    "title": "Torta tres leches",
+    "descripcion": "Torta tres leches.",
+    "claves": "Postres",
+    "thumbnailUrl": "../img/3 leches.jpg"
+  },
+  {
+    "precio": 850,
+    "id": 14,
+    "title": "Hamburguesa de camarón",
+    "descripcion": "Excelente hamburguesa de camarones con aguacate y salsa malecón.",
+    "claves": "Hamburguesa, camarones, vegetales, aguacate, plato principal",
+    "thumbnailUrl": "../img/hamburguesa de camaron.jpg"
+  },
+  {
+    "precio": 550,
+    "id": 15,
+    "title": "Asopado de camarones",
+    "descripcion": "Asopado de camarones con mejillón.",
+    "claves": "Camarones, mejillón, cebolla, perejil, ajo, hervidos",
+    "thumbnailUrl": "../img/asopado de camarones.jpg"
+  },
+  {
+    "precio": 650,
+    "id": 16,
+    "title": "Croquetas",
+    "descripcion": "Croquetas de pescado.",
+    "claves": "Pescado, rebozado de la casa, ajo, perejil, pimienta, cebolla, plato entrada",
+    "thumbnailUrl": "../img/croquetas.jpg"
+  },
+  {
+    "precio": 600,
+    "id": 17,
+    "title": "Pasta con Camarones",
+    "descripcion": "Pasta larga, Camarones, salsa blanca.",
+    "claves": "Pasta, camarones, salsa blanca, plato principal",
+    "thumbnailUrl": "../img/pasta con camarones y salsa blanca.jpg"
+  },
+  {
+    "precio": 750,
+    "id": 18,
+    "title": "Cuajado Oriental",
+    "descripcion": "El cuajado oriental es un plato ligero elaborado con yema de huevos, papas, pescado y plátanos.",
+    "claves": "Plato entrada, huevo, pescado, plátanos, papas, perejil",
+    "thumbnailUrl": "../img/cuajado oriental.jpg"
+  },
+  {
+    "precio": 550,
+    "id": 19,
+    "title": "Camarones empanizados",
+    "descripcion": "camarones, perejil, ajo, cebolla y miga de pan triturados.",
+    "claves": "Camarones rebozados, salsa de la casa o salsa tartara, plato entrada",
+    "thumbnailUrl": "../img/Camarones empanizados.jpg"
+  },
+  {
+    "precio": 500,
+    "id": 20,
+    "title": "Pisillo de cazón",
+    "descripcion": "Cazón, cebolla, ají dulce, cilantro, pimentón, ajo.",
+    "claves": "Cazón esmenuzado, plato entrada",
+    "thumbnailUrl": "../img/pisillo de cazon.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 21,
+    "title": "Coctel de camarones",
+    "descripcion": "Camarones en salsa de la casa.",
+    "claves": "Coctel, camarones, plato entrada",
+    "thumbnailUrl": "../img/coctel de camarones.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 22,
+    "title": "Limonada",
+    "descripcion": "Limonada natural con o sin pulpa a elección.",
+    "claves": "Bebidas, limón, pulpa, jugo",
+    "thumbnailUrl": "../img/limonada.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 23,
+    "title": "Papelón con limón",
+    "descripcion": "Jugo de papelón con limón natural.",
+    "claves": "Bebidas, papelón, pulpa, jugo",
+    "thumbnailUrl": "../img/papelon con limon.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 24,
+    "title": "Jugo de parchita",
+    "descripcion": "Jugo natural de parchita con o sin pulpa a elección.",
+    "claves": "Bebidas, parchita, pulpa, jugo",
+    "thumbnailUrl": "../img/jugo de parchita.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 25,
+    "title": "Jugo de naranja",
+    "descripcion": "Jugo natural de naranja con o sin pulpa a elección.",
+    "claves": "Bebidas, naranja, pulpa, jugo",
+    "thumbnailUrl": "../img/jugo de naranja.jpg"
+  },
+  {
+    "precio": 250,
+    "id": 26,
+    "title": "Agua mineral",
+    "descripcion": "Agua mineral natural del manantial.",
+    "claves": "Bebidas, agua, mineral",
+    "thumbnailUrl": "../img/agua.jpg"
+  },
+  {
+    "precio": 500,
+    "id": 27,
+    "title": "Sprite",
+    "descripcion": "Gaseosa Sprite, sabor original.",
+    "claves": "Bebidas, gaseosa, sprite",
+    "thumbnailUrl": "../img/sprite.jpg"
+  },
+  {
+    "precio": 500,
+    "id": 28,
+    "title": "Cocacola",
+    "descripcion": "Gaseosa Cocacola, sabor original.",
+    "claves": "Bebidas, gaseosa, cocacola",
+    "thumbnailUrl": "../img/cocacola.jpg"
+  }
+]
